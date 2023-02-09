@@ -1,0 +1,5 @@
+[
+    {"id": 465, "nombre": "Ariel", "comentario": "Excelente calidad y buen precio." , "puntuacion": 9},
+    {"id": 493, "nombre": "Pablo", "comentario": "Muy conforme con la compra", "puntuacion": 8},
+    {"id": 768, "nombre": "Gabriel", "comentario": "No me llego a tiempo", "puntuacion": 7768}
+]
